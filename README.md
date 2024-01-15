@@ -1,4 +1,5 @@
 # HotelManagement
+MySQL as database, HTML, CSS, JSP for frontend and Servlet, JS for backend.
 
 This system has all CRUD functions and additionally it contains report generation function
 
